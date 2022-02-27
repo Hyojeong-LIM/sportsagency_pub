@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sportsagency_pub/static/css/main.e6c13ad2.css",
+    "main.js": "/sportsagency_pub/static/js/main.8462298b.js",
+    "static/js/787.0233dd35.chunk.js": "/sportsagency_pub/static/js/787.0233dd35.chunk.js",
+    "index.html": "/sportsagency_pub/index.html",
+    "main.e6c13ad2.css.map": "/sportsagency_pub/static/css/main.e6c13ad2.css.map",
+    "main.8462298b.js.map": "/sportsagency_pub/static/js/main.8462298b.js.map",
+    "787.0233dd35.chunk.js.map": "/sportsagency_pub/static/js/787.0233dd35.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8462298b.js"
+  ]
+}
